@@ -1,6 +1,7 @@
 #Android Environment Script for UBUNTU 18.04
 
 #Update packages
+apt-get update
 sudo update
 
 #Installing packages
